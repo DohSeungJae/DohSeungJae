@@ -1,4 +1,4 @@
-# Do Seung Jae
+# DoSeungJae
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gb4250)](https://solved.ac/gb4250/)
 
 <!--
