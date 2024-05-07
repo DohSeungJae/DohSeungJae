@@ -1,4 +1,5 @@
-### Hi there 👋
+# Do Seung Jae
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gb4250)](https://solved.ac/gb4250/)
 
 <!--
 **DoSeungJae/DoSeungJae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
